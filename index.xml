@@ -17,7 +17,7 @@
       
       <guid>http://collinvalley.github.io/post/first-post/</guid>
       <description> Welcome So the entire site is created in Markdown, going to have to think about what that means for me in the future. I am sure there is a lot to learn, there are also a lot of things I don&amp;rsquo;t know yet
-Test TEST LINE PLEASE IGNORE </description>
+Test TEST LINE PLEASE IGNORE  body { font-family: &#34;Noto Sans&#34;, sans-serif; }   </description>
     </item>
     
   </channel>
