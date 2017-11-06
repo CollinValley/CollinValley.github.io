@@ -26,7 +26,7 @@ title404 = "Nothing's here!"
 [params.assets]
 favicon = "favicon.ico"
 customCSS = ["css/prism.css"]
-customJS = ["js/prism.js"]
+customJS = ["js/prism.js" , "js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]

@@ -19,3 +19,11 @@ So the entire site is created in Markdown, __going__ to have to think about what
   }
   </code>
 </pre>
+
+<pre>
+  <code class="language-python">
+  >>> from pygments.styles import get_all_styles
+  >>> styles = list(get_all_styles())
+  >>> print styles
+  </code>
+</pre>
