@@ -20,7 +20,7 @@ pygmentsCodefences = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Valley static site"
+description = "I made this static site"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -31,7 +31,7 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
+holder = "Collin Valley"
 startYear = "2017"
 suffix = ""
 
